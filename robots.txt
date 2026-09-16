@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rosvi576.github.io/malliga-steel-works/sitemap.xml
